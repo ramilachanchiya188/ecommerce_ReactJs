@@ -1,4 +1,17 @@
 Jwellery shop ecommerce website for beginner and also in react js and node js using the express server to communicete with server. 
+
+Admin panel:----
+
+Admin Home Page:----
+![image](https://github.com/ramilachanchiya188/ecommerce_ReactJs/assets/164127763/019a85c1-ee59-4602-a20d-58e221f09a82)
+
+Add Product Page:---
+![image](https://github.com/ramilachanchiya188/ecommerce_ReactJs/assets/164127763/1604fa03-f680-4d1c-851f-26c119b55e21)
+
+Product list:-----
+![image](https://github.com/ramilachanchiya188/ecommerce_ReactJs/assets/164127763/2d980ce4-3cb5-4d98-992a-97b83f713ea5)
+
+
 ![image](https://github.com/ramilachanchiya188/ecommerce/assets/164127763/fb990246-9cb6-4934-93b7-c9dfa821919f)
 
 login page:----
